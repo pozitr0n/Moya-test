@@ -1,0 +1,6 @@
+framework module Pods_AppForMoya {
+  umbrella header "Pods-AppForMoya-umbrella.h"
+
+  export *
+  module * { export * }
+}
